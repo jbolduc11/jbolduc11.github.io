@@ -1,0 +1,26 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.skills img {
+    width: 100px;
+    margin: 10px 10px;
+}
+
+.profileImage {
+    border-radius: 50%; 
+    background-image: url("https://scontent.faus1-1.fna.fbcdn.net/v/t1.0-9/50407383_10218549732204184_819625823324602368_n.jpg?_nc_cat=107&_nc_oc=AQlbCUVdbIJfQf6rex2sClive_CPRq2elWYFFSC5cPFBhFEk_JOVO1QFmrY8s3U-04Nm6ADfgrLD8Z2cxNmdtkzD&_nc_ht=scontent.faus1-1.fna&oh=734c79c86ea2e78ff53590b4269e7aba&oe=5E10598B"); 
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: 250px; 
+    height: 250px; 
+    width: 250px; 
+}
+
+.blog-footer {
+    padding: 2.5rem 0;
+    color: #999;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+}
