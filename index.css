@@ -9,7 +9,7 @@
 
 .profileImage {
     border-radius: 50%; 
-    background-image: "desktop/JBphoto.png"; 
+    background-image: url("/desktop/JBphoto.png"); 
     background-repeat: no-repeat;
     background-position: center; 
     background-size: 250px; 
