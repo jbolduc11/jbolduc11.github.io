@@ -24,3 +24,13 @@
     background-color: #f9f9f9;
     border-top: .05rem solid #e5e5e5;
 }
+
+.programs {}
+
+section.jumbotron.mb-0 {
+    background: black;
+    color: whitesmoke;
+}
+.album.py-5.bg-light {
+    color: black;
+}
