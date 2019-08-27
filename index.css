@@ -32,5 +32,6 @@ section.jumbotron.mb-0 {
     color: whitesmoke;
 }
 .album.py-5.bg-light {
+    background: black;
     color: black;
 }
